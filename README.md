@@ -23,24 +23,24 @@ I'm a **B.Tech Computer Science student** passionate about AI, Machine Learning,
 ---
 
 ## 🛠️ My Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![Python](https://img.shields.io/badge/-Python?logo=python&logoColor=3776AB&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript?logo=javascript&logoColor=F7DF1E&style=flat)
+![Next.js](https://img.shields.io/badge/-Next.js?logo=next.js&logoColor=000000&style=flat)
+![FastAPI](https://img.shields.io/badge/-FastAPI?logo=fastapi&logoColor=009688&style=flat)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL?logo=postgresql&logoColor=316192&style=flat)
+![Firebase](https://img.shields.io/badge/-Firebase?logo=firebase&logoColor=FFCA28&style=flat)
+![Java](https://img.shields.io/badge/-Java?logo=openjdk&logoColor=007396&style=flat)
+![C](https://img.shields.io/badge/-C?logo=c&logoColor=A8B9CC&style=flat)
+![C++](https://img.shields.io/badge/-C++?logo=c%2B%2B&logoColor=00599C&style=flat)
+![MySQL](https://img.shields.io/badge/-MySQL?logo=mysql&logoColor=4479A1&style=flat)
 
 ---
 
-## 🛠️ I Work On
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
-![Jupyter Notebooks](https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+## 💻 I Work On
+![VS Code](https://img.shields.io/badge/-VS%20Code?logo=visualstudiocode&logoColor=007ACC&style=flat)
+![Google Colab](https://img.shields.io/badge/-Google%20Colab?logo=googlecolab&logoColor=F9AB00&style=flat)
+![Jupyter](https://img.shields.io/badge/-Jupyter?logo=jupyter&logoColor=F37626&style=flat)
+![Eclipse](https://img.shields.io/badge/-Eclipse?logo=eclipseide&logoColor=2C2255&style=flat)
 
 ---
 
